@@ -1,3 +1,5 @@
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
 <h1 align="center">👋 Hi, I'm <strong>Ganesh</strong></h1>
 
 <h3 align="center">💻 Backend Developer | Java • Spring Boot • SQL</h3>
@@ -6,9 +8,11 @@
   🚀 Passionate about building scalable backend systems & APIs
 </p>
 
----
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+</p>
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+---
 
 ## 🧑‍💻 About Me
 
@@ -54,12 +58,7 @@
 
 ### ☁️ Cloud & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,git" />
-</p>
-
-### 🧰 Other Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,git,postman" />
 </p>
 
 ---
@@ -88,24 +87,8 @@
 
 ---
 
-## 🔝 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ganesh-2005-Gu&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Ganesh-2005-Gu&icon=5&color=6" />
-</p>
-
----
-
-## 💡 Quote
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> – John Johnson
 </p>
