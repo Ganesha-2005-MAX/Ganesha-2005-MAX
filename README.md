@@ -63,12 +63,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ganesh-2005-Gu&theme=dark&hide_border=true" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-2005-Gu&theme=dark&layout=compact&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Ganesh-2005-Gu&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-2005-Gu&theme=dark&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
