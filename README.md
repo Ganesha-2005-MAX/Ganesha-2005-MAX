@@ -76,17 +76,3 @@
 </p>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-2005-Gu&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ganesh-2005-Gu&icon=5&color=6" />
-</p>
