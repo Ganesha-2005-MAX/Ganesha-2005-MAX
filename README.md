@@ -8,11 +8,9 @@
   🚀 Passionate about building scalable backend systems & APIs
 </p>
 
-<p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-</p>
-
 ---
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
 ## 🧑‍💻 About Me
 
