@@ -65,8 +65,6 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Ganesha-2005-MAX&theme=dark&hide_border=true" />
-</p>
-
 <p align="right">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesha-2005-MAX&layout=compact&theme=dark&hide_border=true" />
 </p>
