@@ -66,10 +66,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Ganesh-2005-Gu&theme=dark&hide_border=true" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Ganesha-2005-MAX&theme=dark&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-2005-Gu&theme=dark&layout=compact&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesha-2005-MAX&theme=dark&layout=compact&hide_border=true" />
     </td>
   </tr>
 </table>
