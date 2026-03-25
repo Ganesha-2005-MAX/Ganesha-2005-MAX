@@ -63,12 +63,12 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
-    <td style="padding-right: 20px;">
+    <td style="padding-right: 30px;">
       <img src="https://streak-stats.demolab.com?user=Ganesha-2005-MAX&theme=dark&hide_border=true" />
     </td>
-    <td style="padding-left: 20px;">
+    <td style="padding-left: 30px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesha-2005-MAX&layout=compact&theme=dark&hide_border=true" />
     </td>
   </tr>
